@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPIC.ParkingServer", "CPIC.ParkingServer\CPIC.ParkingServer.csproj", "{848AC9D4-532E-4FE5-8DB8-D5EA55129F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPIC.Data", "CPIC.Data\CPIC.Data.csproj", "{2DDAABFD-FD54-4942-AF6C-7CF34B2817BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848AC9D4-532E-4FE5-8DB8-D5EA55129F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848AC9D4-532E-4FE5-8DB8-D5EA55129F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848AC9D4-532E-4FE5-8DB8-D5EA55129F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848AC9D4-532E-4FE5-8DB8-D5EA55129F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDAABFD-FD54-4942-AF6C-7CF34B2817BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDAABFD-FD54-4942-AF6C-7CF34B2817BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDAABFD-FD54-4942-AF6C-7CF34B2817BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDAABFD-FD54-4942-AF6C-7CF34B2817BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8168ADA2-6B5D-4825-A33F-0648612CFA0C}
+	EndGlobalSection
+EndGlobal
